@@ -1,0 +1,41 @@
+pls could anyone help with this. i'm trying to install dependencies for layer5 locally but i'm getting this error(screenshot). i  run                                                                                npm install -g gatsby-cli
+make setup-libs
+make site                                                                                                                                    or how best do i go about this.
+Capture7.PNG 
+Capture7.PNG
+
+
+6 replies
+
+Lee  2 months ago
+@Bukola Kehinde you might confirm that gatsby-cli is installed and available by running which gatsby-cli
+
+Lee  2 months ago
+Then, clear out your local environment to ensure that you’re starting fresh:
+This happens sometimes when there are some files cached. You can follow the following steps to solve it:
+Clear the cache.
+$ npm cache clean --force
+
+Delete the node_modules folder and package-lock.json file. You could do that by navigating to the project folder or using the following command:
+
+$ rm -rf node_modules && rm package-lock.json
+
+Lee  2 months ago
+Then, make setup-libs and make site.
+
+Bukola Kehinde  2 months ago
+thanks @Lee but make setup-libs didn't run  but I use  npm install  & npm start. Its worked
+
+Bukola Kehinde  2 months ago
+also added the gatsby path to my environ variable.
+
+Lee  2 months ago
+Ah, very good. Makes sense. :slightly_smiling_face:
+
+
+Reply…
+
+
+
+
+

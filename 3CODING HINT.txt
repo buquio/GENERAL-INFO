@@ -1,0 +1,426 @@
+what God can not do does not exist. #nsppd #7amfireprayers
+ what God can not do does not exist. #nsppd #7amfireprayers
+
+
+////THINGS TO KNOW
+HTML/CSS
+CSS Preprocessors
+Responsive/Mobile Design
+JavaScript
+Typescript
+jQuery library
+JavaScript Frameworks - (ReactJS/Angular/Vue)
+Front End Frameworks (Bootstrap/Tailwind)
+RESTful Services/APIs, GraphQL
+Basics of the server-side (Node.js, Express, SQL, Database (MongoDB, PostrgreSQL)
+Server-Side rendering framework - (NextJS/NuxtJS)
+Testing/Debugging (Unit Tests, Integration Tests, End to End Tests, Load Tests)
+Git/Version Control
+Accessibility, Cross-Browser Development
+SEO, Web Performance
+Basics of UI/UX Design
+How to build design system, Storybook
+Good understanding of AWS, Docker, Kubernetes, Jenkins, and CI/CD
+Concepts like Sofware Design, Clean Code, Observability, Manutenabilty
+Advantage skills:
+
+Any one of Content Management System
+Hybrid app development using Ionic React
+Mobile development framework using React Native
+Desktop development framework using Electron
+Data visualization using D3.js
+
+/////////////////
+Over the last month, I've seen everything I needed
+I saw your 800+ submissions on leetcode.
+I saw all of your community involvement with software developers on LinkedIn.
+I read your articles on Medium about software development.
+I saw your Github commits.
+
+When action and commitment are truly visible, opportunities will find you.
+
+SAMPLE Personal WEBSITE 
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjF1ZDNKUUgtS05SSlNBUWljMk1md1Bnandvd3xBQ3Jtc0ttLVJJbWJjeUZpV2JBM1I2aHFVdkNXc24yb1gxMFdGZkRKYi1zV2l0MTR4ZG14X3JKZFRHalJRRHdUcHYwdmVpNG9KZFZfS1ZaV3RnZ0NDRXk0VEtGWmNvZktIV3FPcGZTVHpQaHByQ2ZSODFESW96TQ&q=https%3A%2F%2Farpanneupane.com%2F&v=bhiEJW5poHU
+
+My Website: https://arpanneupane.com
+My GitHub: https://github.com/arpanneupane19
+
+https://philipokedi.netlify.app/
+
+//////Converting strings to numbers with vanilla JavaScript
+parseInt() # The parseInt() method converts a string into an integer (a whole number). ...
+parseFloat() # The parseFloat() method converts a string into a point number (a number with decimal points). ...
+Number() # The Number() method converts a string to a number.
+
+
+//////converting num to a string
+num.toString()
+
+
+///////ZURI portfolio link
+https://docs.google.com/spreadsheets/d/15SjZ8ALa56IAz1fXwAWAA096t3epRjAdYeVccUViVJI/edit#gid=240088617
+
+
+//////Chai wallet
+RECOVERY 10.promote
+chai wallet address
+xch1p0783egavdk0gqe6mr63phttknwrxmsggll08wtsw9k3fefpa3zqdhujwg
+
+https://wallet.nucle.io/wallet
+
+////task 1
+https://github.com/buquio/print-my-name
+
+//////////TASK 2
+https://medium.com/@kehinde.bukola14/goals-as-a-frontend-intern-ba87d2b56cd6
+
+
+
+///////////////////////////////////////
+PORTFOLIO WEBSITE LINK
+1.https://buquio.github.io/Kehinde-Bukola-Portfolio-Website/
+
+2.HOST THIS ON GITHUB TOO http://127.0.0.1:5500/carousel/about.html
+
+EMAIL
+kehinde.bukola14@gmail.com
+
+GitHub Profile Link
+https://github.com/buquio
+
+GITHUBGIST
+https://gist.github.com/buquio/8720e974371b3bf3cdf7c1e209635a55
+
+LinkedIn Profile Link
+https://linkedin.com/in/bukolaKehinde
+
+Twitter Profile Link
+https://twitter.com/bukola14_bukola
+
+Facebook Profile Link
+https://facebook.com/bukola
+
+Instagram Profile Link
+https://instagram.com/bfk_fashion
+
+Personal Website Link
+https://buquio.github.io/Kehinde-Bukola-Portfolio-Website/
+
+FIGMA
+https://www.figma.com/@buquio
+
+CV URL(postimg)
+https://i.postimg.cc/3NcVzmqz/Kehinde-Bukola-Resume2-converted.png 
+
+CV URL(goole drive)
+https://drive.google.com/file/d/1s_euMLaiRSc9vJvOohU5m7YJYNj2vUZ1/view?usp=sharing
+
+MIRO 
+https://miro.com/app/board/o9J_l0Uv3Uc=/
+
+POSTMAN
+https://www.postman.com/
+
+MY CODESANDBOX LINK
+https://codesandbox.io/u/buquio
+
+MEDUIM
+https://medium.com/@kehinde.bukola1
+
+ADRESS
+Plot 234 Jumoke Apara oshodi street,gbagada,Lagos  postal code is 234.
+
+
+
+INDIVIDUAL HOSTED PROJT & THEIR LINKS
+1.javascript calculator-
+2.javascipt article page-
+3.fylo 
+4.House of BFK
+5.SCAfylo-dark-theme-landing-page-master
+6.13BBQ MASTER DEPLOYED ON NETLIFY https://brave-chandrasekhar-83078a.netlify.app/
+
+
+
+
+ ///////////////
+ MyPHPAdmin:name=root/pw=nil
+ microsoft:twenty24
+ github:tewnty24twenty20
+ microsoftteams:2024
+ wordpress:tewnty24twenty20
+skype:kehinde24
+ragp:Abcde2525/2525232
+zenith:1014812771/comment-08028906470
+kotorola0041/08183690041 
+postman:T
+ 
+ 
+ 
+////////
+I am in my season of my back to back congratulations #what God can not do does not exit. #nsspd #7amfireprayers
+
+
+
+////////////////
+/* 
+  color: #A5B2D3; text-color
+  color: white;  h1
+  color: #FC85AE;  h3 pink
+  color: #F5D9D6; lighter pink
+  background: #39445F; dark1 -panel
+  background: #303A52; darker2-body
+  background: #2C354A; darkest3 -nav  
+
+ */
+
+//////
+ https://learndigital.withgoogle.com/digitalskills/course/digital-marketing/certification/pre-assessment
+ 
+https://learndigital.withgoogle.com/digitalskills/courses?category=digital_marketing
+
+
+
+ /////fundme
+ https://drive.google.com/drive/folders/1fGDQGmg-LPrDEsh-ilUcbC1VANJrN1-H
+ https://www.figma.com/file/3fROaXfCJ6bd0chgTOwao1/Project-FundMe?node-id=1%3A2
+ 
+ //https://github.com/zuri-training
+ https://github.com/orgs/zuri-training/teams/fundme-pjt-96
+ 
+ //@seyiogunjuyigbe, @kingabesh, @Murewa Ebuka Peter	@Ebuka Peter
+Charles Dim	@charles
+Iheonye Chukwuemeka	@sophisticateddev
+
+ ///////
+ 
+To make the experience better would apprenciate that the community feature things like 
+intern-pairing that is paring experienced interns with the beginners as this is another way to falicitate more rapidly improvement. 
+Also the need for group virtual group dicussions to enchance general knowledge base about IT and to buid exposure.
+Also the area of soft-skill training to enchance improvement of skills needed for IT work environment.
+Also aspect of how to prepare presentable CV as per each track and the interview prep.
+Also advocate for more women to join,there weren't a lot of women. 
+Also consider level of experience during assesment has most people had different interests so that beginner-intern won't feel like a outlier.
+
+	
+
+//backend sca collaborators
+ heedris2olubisi@gmail.com
+ theresaobamwonyi@gmail.com
+ veldakarimi@gmail.com 
+ crystalbell.omuboye@gmail.com
+
+
+////PROJECT
+https://github.com/seyiogunjuyigbe?tab=repositories
+
+////CHAT APP
+https://github.com/WebDevSimplified/Realtime-Simple-Chat-App
+
+https://www.youtube.com/watch?v=rxzOqP9YwmM
+
+////
+https://thecodingjourney.github.io/rest-countries-api/
+
+
+
+////////////////
+FIGMA
+https://www.youtube.com/watch?v=jk1T0CdLxwU
+
+https://www.figma.com/file/I4aIXzP6gZZT1evssXdYoA/ZURI-LANDING-PAGE-(GAME2)?node-id=0%3A1
+
+https://www.figma.com/file/my2wLOQKW4hckRznJIEq49/Upcoming-Zuri-Training-Banner--Team-STORM?node-id=2%3A3
+
+https://www.figma.com/file/D6tkq52BMk3WGLUItHPeZe/covid19-banner?node-id=0%3A1
+
+
+///////////////MY SOCIAL MEDIA LINK
+<ul class="social-list">
+ <li><a href="https://www.freecodecamp.org/buquiobfk"  target="_blank" class="contact-item" id="profile-link"><i class="fab fa-free-code-camp"></i>Freecode</a></li>
+   <li><a href="https://github.com/buquio" target="_blank" class="contact-item"><i class="fab fa-github-square"></i>Github</a></li>
+     <li><a href="https://twitter.com/bukola14_bukola" target="_blank" class="contact-item"> <i class="fab fa-twitter-square"></i>Twitter</a></li>
+       <li><a href="mailto:kehinde.bukola14@gmail.com" target="_blank" class="contact-item"><i class="fas fa-envelope-square"></i>Email</a></li>
+          <li><a href="tel:080-222-4444" target="_blank" class="contact-item"> <i class="fas fa-phone-square"></i>Call</a></li>
+      </ul>
+
+
+////community
+https://www.techrebalanced.org/
+https://excercism.io
+https://github.com/forem/forem
+
+///How i became a software engineering--Arit
+https://www.youtube.com/watch?v=rc5AyncB_Xw
+https://www.youtube.com/watch?v=UJvbjsnOoM0&t=0s
+
+HACKERRANK SOLUTION
+https://nikkesan.gitbook.io/hackerrank/tutorials-1/10-days-of-javascript/day-2
+
+https://devchallenges.io/
+https://www.frontendmentor.io/challenges
+
+https://www.sophiaerp.com/NG/jobApply.aspx?JobID=CGRFObJFqWELfP38BU0FnA%3d%3d Applied job
+https://media-exp1.licdn.com/media/AAYUAgR3AAgAAQAAAAAAACrbGSEYPmwAT0SOH9Muqhf6NA.png
+
+
+///////LISTS OF APIs
+---list of API, no authentic/API key to use it
+https://github.com/public-apis/public-apis   
+OTHER API URLS
+1.https://jsonplaceholder.typicode.com e.g https://jsonplaceholder.typicode.com/posts
+2.https://httpbin.org
+e.g 
+https://httpbin.org/post
+3.https://randomuser.me/api/
+4.google maps
+5.https://api.noopschallenge.com/hexbot?count=25
+
+
+//////////////////////////////////////
+TUTORIALS
+API integration 
+https://www.youtube.com/watch?v=ai1zmNO5Z3E
+
+CONNECTING Frontend to backend using Node, APIs, Vanilla JS
+https://www.youtube.com/watch?v=v7cprTuAnlA
+
+High voltage sign 30 Days of Node
+https://nodejsera.com/30-days-of-node.html
+
+
+what God can not do does not exist
+🎎💍🎂🏖✈🏅-27th Apirl
+ 
+
+///////////
+New quick pitch
+I'm a Software Developer bent towards building maintainable and awesome UIs, 
+skilled in ReactJS, JavaScript and HTML. 
+Would love to work with you either on-site or remotely.  
+I'm open to job opportunities.
+
+/////////////
+quick pitch
+I'm a Software Developer,
+I transitioned to software engineering career in my late 30s, while in a fashion designing business.
+I am deliberately transparent about my coding process, mistakes, and my so-stuck moments as a late-career dev.
+My desire is to encourage others, and further represent black women and moms in the software engineering industry.
+
+
+
+
+
+BACKEND SUBMISSION LINK
+https://docs.google.com/forms/d/e/1FAIpQLSckJcKk0a3zAzQuaqNEM0gYY8zE6ox_gQ8zA9IvoXiNb3arYw/viewform
+
+
+BACKEND LEVEL ONE
+https://github.com/buquio/Backend-Initiative-Project/tree/level-1
+
+https://documenter.getpostman.com/view/13930102/TWDRrzB7
+
+BACKEND LEVEL TWO
+https://github.com/buquio/Backend-Initiative-Project/tree/Level-Two-Task
+
+https://documenter.getpostman.com/view/13930102/TWDdhsgM
+
+SCA FRONTEND LEVEL ONE
+https://codepen.io/buquio/pen/MWbyLZW
+
+SCA FRONTEND LEVEL TWO
+PUBLISH-https://buquio.github.io/SCAfylo-dark-theme-landing-page-master/
+GITHUB
+https://github.com/buquio/SCAfylo-dark-theme-landing-page-master
+
+
+HASNODE ARTICLE
+10 GitHub Essential commands.
+https://buquio.hashnode.dev/10-github-essential-commands
+
+
+/////////////////////////////////////////////////////////////
+logo- differnt sizes
+https://studio.tailorbrands.com/business/62929537/wizard/generate?prevId=389980962
+
+background gradientimages
+https://www.freepik.com/vectors/background
+
+Adobe Photoshop CC 2020 Crash Course for Absolute Beginners
+https://www.youtube.com/watch?v=kfMn1SzXVAg
+
+stock images
+https://unsplash.com/images/stock
+
+SKYCONS -https://darkskyapp.github.io/skycons/
+-click the Github down in the page.
+-download the folder
+-copy the folder into your project
+///////////////
+background-image: url(images/email-pattern.png);
+
+XXX Icons -We provide SVGs for the social icons.Other suggestions can be found below:
+- [Font Awesome](https://fontawesome.com)
+- [IcoMoon](https://icomoon.io)
+- [Ionicons](https://ionicons.com)
+
+
+xxx to circle crop your image
+-circle.imageonline.io
+https://crop-circle.imageonline.co/
+
+xxx how to type emoji
+on your keyboard press WIN/windows key . OR WIN ;
+℉℃⁛⁜※©(❁´◡`❁)(┬┬﹏┬┬)😊❤🌮🍱🥓🍿🥙🍚🧀🧆🥣🍗🚲🚚🏍✈💺🚢🛰🏴‍☠️🪐🌍🏚🏫🛹👩‍🎤👩‍💼🎁
+
+
+xxxfor colors colorhunt.co
+
+xxx to add a page icon on your browser search
+www.favicon.co
+-A favicon (short for "favorites icon", is an icon associated with a particular website or webpage that is displayed in the browser address bar next to a site's URL.
+
+
+////////////////////
+HOW TO VIEW MY WEBSITE DIRECTLY ON MY PHONE(FOR MOBILE VIEW)
+-make sure your computer & phone are on the same wifi/internet connection
+-GET THE IP address of your Computer
+-then go to your phone chrome browser
+-type in your Computer ip address + the url of the website
+-then click search to view it
+
+
+
+//////////////yyy
+RIA -Rich Internet Application
+
+SPA -Single Page Application
+    -on the browser 
+    -there is an html template already it will just fill the template & display the content
+    -the content is added to the template on the browser side not on the serverside
+    -
+
+
+MPA - Multiple Page Application
+    -goes to the server several times
+    -send users profile from server
+    -only html
+    -PHP, Java
+
+
+
+
+
+
+
+            
+
+          
+    
+
+
+
+
+
+
+
