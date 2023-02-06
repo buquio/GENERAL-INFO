@@ -30,7 +30,7 @@ Mobile development framework using React Native
 Desktop development framework using Electron
 Data visualization using D3.js
 
-/////////////////
+/////////////////HINT FOR A SUCESSFUL SOFTWARE DEVELOPER
 Over the last month, I've seen everything I needed
 I saw your 800+ submissions on leetcode.
 I saw all of your community involvement with software developers on LinkedIn.
@@ -39,6 +39,7 @@ I saw your Github commits.
 
 When action and commitment are truly visible, opportunities will find you.
 
+/////////////////////
 SAMPLE Personal WEBSITE 
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjF1ZDNKUUgtS05SSlNBUWljMk1md1Bnandvd3xBQ3Jtc0ttLVJJbWJjeUZpV2JBM1I2aHFVdkNXc24yb1gxMFdGZkRKYi1zV2l0MTR4ZG14X3JKZFRHalJRRHdUcHYwdmVpNG9KZFZfS1ZaV3RnZ0NDRXk0VEtGWmNvZktIV3FPcGZTVHpQaHByQ2ZSODFESW96TQ&q=https%3A%2F%2Farpanneupane.com%2F&v=bhiEJW5poHU
 
@@ -57,7 +58,8 @@ Number() # The Number() method converts a string to a number.
 num.toString()
 
 
-///////ZURI portfolio link
+///////////////////////////
+ZURI portfolio link
 https://docs.google.com/spreadsheets/d/15SjZ8ALa56IAz1fXwAWAA096t3epRjAdYeVccUViVJI/edit#gid=240088617
 
 
@@ -140,22 +142,6 @@ INDIVIDUAL HOSTED PROJT & THEIR LINKS
 5.SCAfylo-dark-theme-landing-page-master
 6.13BBQ MASTER DEPLOYED ON NETLIFY https://brave-chandrasekhar-83078a.netlify.app/
 
-
-
-
- ///////////////
- MyPHPAdmin:name=root/pw=nil
- microsoft:twenty24
- github:tewnty24twenty20
- microsoftteams:2024
- wordpress:tewnty24twenty20
-skype:kehinde24
-ragp:Abcde2525/2525232
-zenith:1014812771/comment-08028906470
-kotorola0041/08183690041 
-postman:T
- 
- 
  
 ////////
 I am in my season of my back to back congratulations #what God can not do does not exit. #nsspd #7amfireprayers
@@ -174,7 +160,7 @@ I am in my season of my back to back congratulations #what God can not do does n
 
  */
 
-//////
+//////Google digital_marketing
  https://learndigital.withgoogle.com/digitalskills/course/digital-marketing/certification/pre-assessment
  
 https://learndigital.withgoogle.com/digitalskills/courses?category=digital_marketing
@@ -219,13 +205,8 @@ https://github.com/WebDevSimplified/Realtime-Simple-Chat-App
 
 https://www.youtube.com/watch?v=rxzOqP9YwmM
 
-////
-https://thecodingjourney.github.io/rest-countries-api/
-
-
-
 ////////////////
-FIGMA
+///FIGMA
 https://www.youtube.com/watch?v=jk1T0CdLxwU
 
 https://www.figma.com/file/I4aIXzP6gZZT1evssXdYoA/ZURI-LANDING-PAGE-(GAME2)?node-id=0%3A1
@@ -245,23 +226,17 @@ https://www.figma.com/file/D6tkq52BMk3WGLUItHPeZe/covid19-banner?node-id=0%3A1
       </ul>
 
 
-////community
-https://www.techrebalanced.org/
-https://excercism.io
-https://github.com/forem/forem
-
 ///How i became a software engineering--Arit
 https://www.youtube.com/watch?v=rc5AyncB_Xw
 https://www.youtube.com/watch?v=UJvbjsnOoM0&t=0s
 
 HACKERRANK SOLUTION
-https://nikkesan.gitbook.io/hackerrank/tutorials-1/10-days-of-javascript/day-2
+https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving
+https://www.youtube.com/playlist?list=PLSIpQf0NbcCltzNFrOJkQ4J4AAjW3TSmA
 
 https://devchallenges.io/
 https://www.frontendmentor.io/challenges
 
-https://www.sophiaerp.com/NG/jobApply.aspx?JobID=CGRFObJFqWELfP38BU0FnA%3d%3d Applied job
-https://media-exp1.licdn.com/media/AAYUAgR3AAgAAQAAAAAAACrbGSEYPmwAT0SOH9Muqhf6NA.png
 
 
 ///////LISTS OF APIs
@@ -279,6 +254,15 @@ https://httpbin.org/post
 
 //////////////////////////////////////
 TUTORIALS
+Database
+https://www.youtube.com/watch?v=W2Z7fbCLSTw
+https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
+ 
+SQL - Have the same schema for all data groups e.g MySql, PostrgreSQL
+https://www.google.com/search?q=sql&sxsrf=AJOqlzVmalKNa4kwZxEwvSXwwSBPE7qR0A:1675687663639&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiMhcj_9oD9AhVioFwKHSt0BJYQ_AUoAnoECAEQBA&biw=1197&bih=651&dpr=3#fpstate=ive&vld=cid:b12b8327,vid:h0nxCDiD-zg
+
+NO SQL - Does not have the same schema for all data groups e.g MongoDB 
+
 API integration 
 https://www.youtube.com/watch?v=ai1zmNO5Z3E
 
